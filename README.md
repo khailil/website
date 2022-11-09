@@ -1,1 +1,1 @@
-# website
+This website is going to be a portfolio for all of my art. I'm planning on having a featured gallery on the home page and then a full gallery page. I plan on also having a works in progress page so that I can show works that maybe aren't done or I don't plan on finishing.
