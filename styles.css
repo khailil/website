@@ -1,0 +1,40 @@
+body {
+  background-image: url("background.png");
+}
+
+.large1 {
+  width: 45%;
+  float: left;
+  padding: 10px;
+  margin-left: 20px;
+  background-color: #c4c4c4;
+}
+.large2 {
+  width: 45%;
+  float: right;
+  padding: 10px;
+  margin-right: 20px;
+  background-color: #c4c4c4;
+}
+.large {
+  width: 100%
+}
+.button {
+  background-color: #51166e;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  border-radius: 4px;
+  transition-duration: 0.4s;
+}
+.button:hover {
+  background-color: #5f217e;
+}
+
+.bar {
+  background-color: #6f248a ;
+}
