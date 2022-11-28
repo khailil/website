@@ -2,6 +2,14 @@ body {
   background-image: url("background.png");
 }
 
+h1 {
+    text-align: center;
+}
+
+.talking {
+    background-color: #ffffff;
+}
+
 .large1 {
   width: 45%;
   float: left;
@@ -35,6 +43,31 @@ body {
   background-color: #5f217e;
 }
 
+.button1 {
+    width: 30%;
+}
+
+.button2 {
+  width: 10%;
+  background-color: #c4c4c4;
+  padding: 5px;
+  margin: 10px;
+}
+
+.barz {
+  background-color: #6f248a ;
+  text-align: center;
+}
+
 .bar {
   background-color: #6f248a ;
+}
+
+.info {
+  text-align: center;
+}
+
+.gomu {
+  width: 95%;
+  text-align: center;
 }
