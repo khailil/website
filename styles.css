@@ -1,10 +1,14 @@
 body {
   background-image: url("background.png");
+  font-family: "Papyrus", Times, serif;
+  font-weight: bold;
+
 }
 
 h1 {
     text-align: center;
 }
+
 
 .talking {
     background-color: #ffffff;
@@ -27,24 +31,12 @@ h1 {
 .large {
   width: 100%
 }
-.button {
-  background-color: #51166e;
-  border: none;
-  color: black;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 18px;
-  border-radius: 4px;
-  transition-duration: 0.4s;
-}
-.button:hover {
-  background-color: #5f217e;
-}
+
 
 .button1 {
-    width: 30%;
+    width: auto;
+    height: 150px;
+    padding: 30px;
 }
 
 .button2 {
@@ -60,14 +52,49 @@ h1 {
 }
 
 .bar {
-  background-color: #6f248a ;
+  text-align: right;
+  background-color: rgba(111, 36, 138, 0.8) ;
+  padding-right: 5px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin-bottom: 10px;
 }
 
-.info {
+.button {
+  background-color: #43115c;
+  border: none;
+  color: black;
+  padding: 15px 32px;
   text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  border-radius: 4px;
+  transition-duration: 0.4s;
+}
+.button:hover {
+  background-color: #5f217e;
+}
+
+.art {
+  font-size: 20px;
+  margin-left: 20%;
+  text-align: center;
+  width: 60%;
 }
 
 .gomu {
   width: 95%;
   text-align: center;
+}
+
+.talking {
+  margin-left: 20%;
+  width: 60%;
+  background-color: #bfb178;
+  padding-bottom: 5px;
+}
+
+.left {
+    text-align: left !important;
 }
