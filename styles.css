@@ -54,6 +54,7 @@ h1 {
 .barz {
   background-color: #6f248a ;
   text-align: center;
+
 }
 
 .bar {
@@ -91,7 +92,7 @@ h1 {
 
 .gomu {
   width: 95%;
-  margin-left: 7%;
+  margin-left: 7%
 }
 
 .talking {
@@ -109,4 +110,13 @@ h1 {
 .story {
   text-align: center;
 
+}
+
+.breaker {
+  color: rgba(255, 0, 0, 0);
+  font-size: 20px;
+}
+
+.image {
+  height: 25%;
 }
