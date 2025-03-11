@@ -1,5 +1,6 @@
 body {
   background-image: url("background1.png");
+  background-repeat: no-repeat;
   font-family: "Papyrus", Times, serif;
   font-weight: bold;
 
