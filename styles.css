@@ -79,7 +79,7 @@ h1 {
   font-size: 26px;
   border-radius: 4px;
   transition-duration: 0.4s;
-  
+
 
 }
 .button:hover {
@@ -122,4 +122,6 @@ h1 {
 
 .image {
   height: 25%;
+text-align: center;
+margin-left: 5%;
 }
